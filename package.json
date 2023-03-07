@@ -3,6 +3,10 @@
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "//github.com/alexcheuk/semantic-release-tag-only.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
