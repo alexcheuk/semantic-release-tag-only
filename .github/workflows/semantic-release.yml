@@ -29,3 +29,5 @@ jobs:
       # Runs a single command using the runners shell
       - name: Release
         run: npx semantic-release --debug
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
