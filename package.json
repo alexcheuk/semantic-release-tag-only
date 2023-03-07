@@ -1,0 +1,16 @@
+{
+  "name": "semantic-release-tag-only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcheuk/semantic-release-tag-only.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexcheuk/semantic-release-tag-only/issues"
+  },
+  "homepage": "https://github.com/alexcheuk/semantic-release-tag-only#readme"
+}
