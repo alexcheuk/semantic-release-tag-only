@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "//github.com/alexcheuk/semantic-release-tag-only.git"
+    "url": "https://github.com/alexcheuk/semantic-release-tag-only.git"
   },
   "author": "",
   "license": "ISC",
